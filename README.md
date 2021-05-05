@@ -10,3 +10,4 @@ This is a merged javascript from public , unoptimized scripts for the cracked ve
 - Custom clantag presets
 - Better slow-walk
 - Improvements to FPS in general
+- Show enemy loadout (special thanks and huge respect to LeoDeveloper and Monotonized#6495)
