@@ -9,3 +9,4 @@ This is a merged javascript from public , unoptimized scripts for the cracked ve
 - Override minimum damage on key
 - Custom clantag presets
 - Better slow-walk
+- Improvements to FPS
