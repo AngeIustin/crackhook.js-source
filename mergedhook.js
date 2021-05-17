@@ -1516,10 +1516,10 @@ function time_to_ticks(time) {
     return timer;
 }
 var old_text_anim = 0;
-//clangtags
+//clantags
 function anim(texta, indices) {
     if (!World.GetServerString()) return;
-    if (UI.GetValue("MISC", "JAVASCRIPT", "Script items", "reverse tag")) {
+    if (UI.GetValue("MISC", "JAVASCRIPT", "Script items", "Clantag presets")) {
         text_anim = "               " + texta + "                      ";
     } else {
         text_anim = "  ";
@@ -1572,6 +1572,7 @@ function clantag() {
 }
 UI.AddDropdown("Clantag presets", ["off", "gamesense", "onetap.su", "instantmeme", "phack", "eexomi.host", "memesense", "hvhstar.club", Cheat.GetUsername(), "nixware.cc", "TrapSync"]);
 Cheat.RegisterCallback("Draw", "clantag");
+
 //min dmg override
 UI.AddCheckbox("Display mindmg indicator")
 UI.AddHotkey("Heavy Pistol Override")
