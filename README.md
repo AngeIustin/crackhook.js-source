@@ -8,7 +8,7 @@ This is a merged javascript from public , mostly unoptimized scripts for the cra
 - Autostrafe improve with customizable turn speed
 - Vote revealer ( see what the enemies are voting like kicking a teammate or surrender)
 - Override minimum damage on key
-- Custom clantag presets
+- Custom clantag presets (updated)
 - Better slow-walk
 - Improvements to FPS in general
 - Show enemy loadout (special thanks and huge respect to LeoDeveloper and Monotonized#6495)
