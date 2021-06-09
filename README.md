@@ -1,14 +1,13 @@
-# mergedhook.js
+# crackhook.js source
 OTC v3 javascript
 
-This is a merged javascript from public , mostly unoptimized scripts for the cracked version of Onetap.com (Onetap.com v3). This script is open-source and provide the ability to semirage with onetap.com v3 . The original source can be found at semirage.js. Mergedhook.js is the updated version. The changes include:
-- Improved code clarity and grammatical errors (in both the original source and mergedhook)
-- Custom mergedhook.js watermark
+This is a clean source of my javascript made for the cracked version of onetap.com (OTC v3). This source has many features useful for semiraging / blatant cheating with OTC v3 . All features has been seperated and formatted carefully for people looking for reference or pasting materials. The original code can be found in semirage.js. Changes from the original script:
 - R8 revolver fakelag fix (now it does not randomly shoot with fake lag on)
 - Autostrafe improve with customizable turn speed
 - Vote revealer ( see what the enemies are voting like kicking a teammate or surrender)
 - Override minimum damage on key
 - Custom clantag presets (updated)
 - Better slow-walk
-- Improvements to FPS in general
+- FPS boost
 - Show enemy loadout (special thanks and huge respect to LeoDeveloper and Monotonized#6495)
+- Dump MM wins + rank
